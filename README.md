@@ -1,4 +1,4 @@
-Special-topics-in-data-science
+**Special-topics-in-data-science**
 # Northeastern United States traffic accident trends: a geospatial and statistical analysis using python
 
 **Overview**
